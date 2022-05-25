@@ -12,7 +12,8 @@ A classe que representa o robô possui uma série de atributos que correspondem 
 
 O diagrama UML abaixo representa a classe:
 
-![diagrama](assets/uml.jpg)
+<!-- ![diagrama](assets/uml.jpg) -->
+<img src="assets/uml.jpg" alt="diagrama" height="1000">
 
 ## Como rodar o trabalho 2
 
